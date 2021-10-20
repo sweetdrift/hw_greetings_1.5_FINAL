@@ -1,0 +1,16 @@
+{
+  "name": "HF",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tdd_hf.js",
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
